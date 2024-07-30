@@ -12,7 +12,7 @@ public class App {
 
         int numeroAleatorio = random.nextInt(101) + 1;
         
-        //APAGUE AQUI PARA MOSTRAR QUAL O NÚMERO ALEATÓRIO//System.out.println(numeroAleatorio);
+        //APAGUE AQUI PARA MOSTRAR QUAL O NÚMERO ALEATÓRIO//System.out.println(numeroAleatorio);//
 
         System.out.println("Muito bem! Você tem o total de: "+numeroDeChances+" chances para acertar o número aleatorio que está entre 0 a 100. Vamos começar!");
 
